@@ -34,7 +34,7 @@
 
 - [x] [Homework2-AI Agent2](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2025spring/HW02/ML2025Spring_hw2_public) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2025spring/HW02/ML2025Spring_hw2_public.ipynb)
 
-- [x] [Homework3 Understand_Transformer](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2025spring/HW02/LHY_HW3_Understand_Transformer) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2025spring/HW02/LHY_HW3_Understand_Transformer.ipynb)
+- [x] [Homework3 Understand_Transformer](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2025spring/HW03/LHY_HW3_Understand_Transformer) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2025spring/HW02/LHY_HW3_Understand_Transformer.ipynb)
 
 - [x] [Homework4 Training Transformer](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2025spring/HW04/ML2025_Spring_HW4) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2025spring/HW04/ML2025_Spring_HW4.ipynb)
 
