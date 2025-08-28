@@ -30,9 +30,11 @@
 
 ## :rocket: 2025MLSpring
 ### :memo: 版本1：是原始作业，没有答案的需要自己思考动手编写代码完善
-- [x] [Homework1-AI Agent1 RAG](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2025spring/HW01/mlhw1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2025spring/HW01/mlhw1.ipynb)
+- [x] [Homework1-AI Agent1 RAG](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2025spring/HW01/LHY_HW1_AIAgent_RAG) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2025spring/HW01/LHY_HW1_AIAgent_RAG.ipynb)
 
 - [x] [Homework2-AI Agent2](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2025spring/HW02/ML2025Spring_hw2_public) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2025spring/HW02/ML2025Spring_hw2_public.ipynb)
+
+- [x] [Homework3 Understand_Transformer](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2025spring/HW02/LHY_HW3_Understand_Transformer) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2025spring/HW02/LHY_HW3_Understand_Transformer.ipynb)
 
 - [x] [Homework4 Training Transformer](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2025spring/HW04/ML2025_Spring_HW4) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2025spring/HW04/ML2025_Spring_HW4.ipynb)
 
